@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'CalaguasCompany'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_53E20D76BC4D435D84AC167CAA541491 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C9646B09275049A59C99D5E98F2AD9A6 }}
           package: .
